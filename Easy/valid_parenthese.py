@@ -58,3 +58,4 @@ solution_instance = Solution()
 # Test the isValid method with an example input and print the result
 print(solution_instance.isValid("()"))
 
+# O(n), 19 ms, 13.41 MB
